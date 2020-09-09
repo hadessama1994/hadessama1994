@@ -13,14 +13,12 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Bulma | Material-UI
+- 🌐 &nbsp; HTML | CSS | JavaScript | React Native | Node.js | ReactJS | Bulma | Material-UI | Bootstrap
 - 🛢 &nbsp; MongoDB | MySQL
 - 🔧 &nbsp; Git
 - 🖥 &nbsp; Photoshop | Premiere | After Effects
 
 <br/>
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hadessama1994&show_icons=true)
