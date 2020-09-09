@@ -1,11 +1,22 @@
 ## Eduardo Nicolli
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hadesplays_)](https://twitter.com/hadesplays_)  [![Linkedin Badge](https://img.shields.io/badge/-Eduardo_Nicolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/eduardo-nicolli-a70196167//)](https://br.linkedin.com/in/eduardo-nicolli-a70196167) [![Gmail Badge](https://img.shields.io/badge/-edu.souza.ni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:edu.souza.ni@gmail.com) ![age](https://img.shields.io/badge/age-26-blue?style=flat-square) ![living](https://img.shields.io/badge/living-brazil-3c9?style=flat-square)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hadesplays_)](https://twitter.com/hadesplays_)  [![Linkedin Badge](https://img.shields.io/badge/-Eduardo_Nicolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/eduardo-nicolli-a70196167//)](https://br.linkedin.com/in/eduardo-nicolli-a70196167) [![Gmail Badge](https://img.shields.io/badge/-edu.souza.ni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:edu.souza.ni@gmail.com) <a href="https://www.instagram.com/edunicolli" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> ![age](https://img.shields.io/badge/age-26-blue?style=flat-square) ![living](https://img.shields.io/badge/living-Brazil-3c9?style=flat-square) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
 
--  **Learning :** Full-Stack Development
--  **Languages :** Javascript, Java
--  **Hobbies :** Gaming 🎮
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies as Full Stack
+- 🎓 &nbsp; Studied Management Information Systems at Estácio de Sá.
+- 🌱 &nbsp; Learning more about NodeJS, ReactJS, Vue and React Native.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | Java
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Bulma | Material-UI
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git
+- 🖥 &nbsp; Photoshop | Premiere | After Effects
+
+<br/>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
