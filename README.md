@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 About Me </h3> 
 
 
-- 🖱️ &nbsp; Exploring new technologies as Full Stack
+- 🖱️ &nbsp; Exploring new technologies as Full Stack.
 - 🎓 &nbsp; Studied Management Information Systems at Estácio de Sá.
 - 🌱 &nbsp; Learning more about NodeJS, ReactJS, Vue and React Native.
-- 🎮 &nbsp; Enjoying Videogames
+- 🎮 &nbsp; Enjoying Videogames.
 
 <h3>🛠 Tech Stack</h3>
 
