@@ -12,8 +12,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | React Native | Node.js | ReactJS | Vue.js | Bulma | Material-UI | Bootstrap
+- 💻 &nbsp; Javascript | Dart | Java
+- 🌐 &nbsp; HTML | CSS | JavaScript | Flutter | React Native | Node.js | ReactJS | Vue.js | Bulma | Material-UI | Bootstrap
 - 🛢 &nbsp; MongoDB | MySQL
 - 🔧 &nbsp; Git
 - 🖥 &nbsp; Photoshop | Premiere | After Effects
